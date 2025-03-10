@@ -1,1 +1,1 @@
-# Humar Resource Portal
+# Human Resource Portal
