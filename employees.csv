@@ -1,0 +1,41 @@
+id,Name,Position,Department,Monthly Salary,Years of Service
+1,Robert Johnson,Software Engineer,IT,6333,5
+2,Linda Williams,Project Manager,Management,7417,7
+3,Michael Brown,Data Analyst,Finance,6000,4
+4,Elizabeth Martinez,System Administrator,IT,6167,6
+5,David Wilson,HR Manager,Human Resources,6917,8
+6,Susan Anderson,Marketing Specialist,Marketing,5667,3
+7,James Thomas,Financial Analyst,Finance,6583,5
+8,Jessica Garcia,UX Designer,Design,5920,4
+9,William Martinez,DevOps Engineer,IT,7500,6
+10,Emily Harris,Sales Executive,Sales,5500,2
+11,Christopher Clark,Software Engineer,IT,6500,4
+12,Amanda Lewis,Project Manager,Management,7667,8
+13,Daniel Walker,Data Analyst,Finance,5750,3
+14,Patricia Allen,System Administrator,IT,6250,7
+15,Matthew Young,HR Manager,Human Resources,6750,6
+16,Nancy King,Marketing Specialist,Marketing,5920,4
+17,Joshua Wright,Financial Analyst,Finance,6417,5
+18,Betty Scott,UX Designer,Design,5750,3
+19,Andrew Green,DevOps Engineer,IT,7333,6
+20,Barbara Adams,Sales Executive,Sales,5333,2
+21,Anthony Baker,Software Engineer,IT,6333,5
+22,Deborah Gonzalez,Project Manager,Management,7583,7
+23,Kevin Nelson,Data Analyst,Finance,6083,4
+24,Sandra Carter,System Administrator,IT,6167,6
+25,Thomas Mitchell,HR Manager,Human Resources,6833,8
+26,Ashley Perez,Marketing Specialist,Marketing,5583,3
+27,Mark Roberts,Financial Analyst,Finance,6500,5
+28,Kimberly Turner,UX Designer,Design,5833,4
+29,Brian Phillips,DevOps Engineer,IT,7417,6
+30,Laura Campbell,Sales Executive,Sales,5417,2
+31,Edward Parker,Software Engineer,IT,6417,5
+32,Shirley Evans,Project Manager,Management,7750,7
+33,George Edwards,Data Analyst,Finance,5920,4
+34,Donna Collins,System Administrator,IT,6333,6
+35,Paul Stewart,HR Manager,Human Resources,6917,8
+36,Carol Morris,Marketing Specialist,Marketing,5750,3
+37,Steven Rogers,Financial Analyst,Finance,6333,5
+38,Michelle Reed,UX Designer,Design,6000,4
+39,Jeffrey Cook,DevOps Engineer,IT,7250,6
+40,Dorothy Morgan,Sales Executive,Sales,5250,2

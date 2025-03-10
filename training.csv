@@ -1,0 +1,41 @@
+Employee_ID,Name,Training,Date,Status
+1,Robert Johnson,Advanced Python,2025-03-15,Completed
+2,Linda Williams,Leadership & Management,2025-02-20,Completed
+3,Michael Brown,Data Analysis with Excel,2025-03-10,Ongoing
+4,Elizabeth Martinez,Cybersecurity Essentials,2025-04-05,Planned
+5,David Wilson,HR Compliance & Ethics,2025-01-25,Completed
+6,Susan Anderson,Digital Marketing Trends,2025-03-01,Ongoing
+7,James Thomas,Financial Risk Management,2025-02-18,Completed
+8,Jessica Garcia,UI/UX Best Practices,2025-03-12,Ongoing
+9,William Martinez,Cloud Infrastructure,2025-03-25,Planned
+10,Emily Harris,Sales Negotiation Skills,2025-02-10,Completed
+11,Christopher Clark,Software Development Best Practices,2025-04-01,Planned
+12,Amanda Lewis,Agile Project Management,2025-02-28,Completed
+13,Daniel Walker,SQL for Data Analysis,2025-03-08,Ongoing
+14,Patricia Allen,System Security & Maintenance,2025-04-12,Planned
+15,Matthew Young,Conflict Resolution in HR,2025-01-30,Completed
+16,Nancy King,Content Marketing Strategies,2025-03-05,Ongoing
+17,Joshua Wright,Advanced Financial Modeling,2025-02-22,Completed
+18,Betty Scott,UI/UX Psychology,2025-03-20,Ongoing
+19,Andrew Green,DevOps Automation,2025-04-08,Planned
+20,Barbara Adams,Customer Relationship Management,2025-02-15,Completed
+21,Anthony Baker,Machine Learning Fundamentals,2025-03-18,Ongoing
+22,Deborah Gonzalez,Strategic Planning for Managers,2025-02-25,Completed
+23,Kevin Nelson,Financial Data Visualization,2025-03-22,Ongoing
+24,Sandra Carter,Network Security Fundamentals,2025-04-10,Planned
+25,Thomas Mitchell,Employee Engagement Strategies,2025-01-28,Completed
+26,Ashley Perez,SEO Optimization Techniques,2025-03-03,Ongoing
+27,Mark Roberts,Investment Portfolio Management,2025-02-16,Completed
+28,Kimberly Turner,Mobile App UI Design,2025-03-17,Ongoing
+29,Brian Phillips,Kubernetes for DevOps,2025-04-15,Planned
+30,Laura Campbell,Sales Growth Strategies,2025-02-12,Completed
+31,Edward Parker,Full Stack Development,2025-03-19,Ongoing
+32,Shirley Evans,Change Management,2025-02-27,Completed
+33,George Edwards,Data Science with Python,2025-03-09,Ongoing
+34,Donna Collins,Enterprise IT Security,2025-04-07,Planned
+35,Paul Stewart,Diversity & Inclusion in HR,2025-01-22,Completed
+36,Carol Morris,Marketing Analytics,2025-03-04,Ongoing
+37,Steven Rogers,Financial Statement Analysis,2025-02-21,Completed
+38,Michelle Reed,UI Animation Principles,2025-03-14,Ongoing
+39,Jeffrey Cook,CI/CD Implementation,2025-04-06,Planned
+40,Dorothy Morgan,Business Negotiation Skills,2025-02-08,Completed
